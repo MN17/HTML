@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" href="style.css" />
+		<title> Les jeux vidéo nouvelle dicipline olympique </title>
+	
+	
+	</Head>
+	<body>
+		<table>
+		<tr> <td>
+		<h1> Le Esport au Jeux Olympiques ! </h1>
+		<h4> Qu'es ce que le esport ? </h4> 
+		<h2>faire de l'informatique </h2>
+			<table>
+			<tr> <td>types de jeux</td><td>classes du jeu</td></tr> 
+			<tr> <td><a href="Leagueoflegends.html"> League of legends</a></td><td> Moba ranking game</td>
+			<tr> <td><a href="http://www.jeuxvideo.com/jeux/pc/00041885-counter-strike-global-offensive.htm">Counter strike </a></td><td> Fps Ranking game </td>
+			</table> </td> 
+	<td>
+	<div id="centreimg">
+		<img  src="imageJO.jpg" alt="cestbugge" > </div>
+	
+	</td> </tr>
+	</table>
+	</body>
+</html>
+
