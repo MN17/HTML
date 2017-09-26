@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" href="style.css" />
+		<title> League of legends </title>
+	</head>
+		
+		<body>
+		<h1> League of legends ! </h1>
+		<img src="imageLOL.jpg" alt=Cestbugge >
+		</body>
