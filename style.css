@@ -1,0 +1,24 @@
+body
+{
+	background-color:Beige;
+}	
+h4
+{
+	color:blue;
+}
+h1
+{
+	color:red;
+	font-family:Arial;
+}
+h2
+{
+	color:yellow;
+	font-family:Verdana;
+}
+table,td
+{
+	border: 1px solid black;
+}
+
+
